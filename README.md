@@ -1,6 +1,6 @@
 # Front End Developer
 
-# Favorite Skills
+## Favorite Skills
 - Javascript
   * React
   * React Native
@@ -8,7 +8,9 @@
   * NodeJS
   * Graphql
 
-# Released Service
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pastino&show_icons=true&theme=radical)
+
+## Released Service
 - App
   * 비블리 (FrontEnd)
     * Android: https://play.google.com/store/apps/details?id=com.ryencatchers.bibly
